@@ -1,6 +1,6 @@
 <script>
     // CAMPAIGN NAME 
-    let campaign = "SYNDICATE"
+    let campaign = "YOUR CAMPAIGN"
     // import main components
     import StoryHooks from "./StoryHooks.svelte";
 

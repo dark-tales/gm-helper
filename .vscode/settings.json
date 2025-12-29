@@ -4,5 +4,8 @@
   "sonarlint.connectedMode.project": {
     "connectionId": "lowkeyframe",
     "projectKey": "lowkeyframe_GM-helper"
-  }
+  },
+  "cSpell.words": [
+    "gamemaster"
+  ]
 }
