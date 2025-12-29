@@ -78,6 +78,8 @@ Search History: Sort by date (newest first)
 Edit Entry: Click "Details" → "Edit"
 Delete Entry: Click "Details" → "Delete"
 Persistent Storage: All history saved to database via API
+## Image example of Storyhook generation  
+![Storyhook image](https://github.com/dark-tales/gm-helper/blob/main/img/storyhook.png)
 ## Travel
 Select timer duration:
 10 minutes (in game): Inventory review prompt
