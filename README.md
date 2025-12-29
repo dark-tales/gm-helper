@@ -36,8 +36,8 @@ Add notes and track event status
 Click "Save Hook" to add to history
 Use "Save and Delete" to move from database to history
 ### Filters:
-Type: Physical, Discovery, Environmental, Investigation, Ambush, Magical, Social, Uncategorized
-Biome: Aquatic, Arctic, Astral, Desert, Forest, Swamp, Mountain, Plains, Subterranean, Urban, Uncategorized
+- Type: Physical, Discovery, Environmental, Investigation, Ambush, Magical, Social, Uncategorized
+- Biome: Aquatic, Arctic, Astral, Desert, Forest, Swamp, Mountain, Plains, Subterranean, Urban, Uncategorized
 ## Characters
 Filter by Ancestry Rarity and specific Ancestry
 Generate random characters or create custom ones
@@ -46,9 +46,9 @@ Set NPC attitude (Hostile, Unfriendly, Indifferent, Friendly, Helpful)
 Save to history with notes
 ### Ancestry Rarities:
 Common: Dwarf, Elf, Gnome, Goblin, Halfling, Human
-Uncommon: Amurrun, Azarketi, Fetchling, Hobgoblin, Iruxi, Kholo, Kitsune, Kobold, Nagaji, Tengu, Tripkee, Vanara, Ysoki
-Rare: Anadi, Android, Automaton, Conrasu, Fleshwarp, Ghoran, Goloma, Kashrishi, Poppet, Shisk, Shoony, Skeleton, Sprite, Strix, Vishkanya
-Versatile: Aiuvarin, Beastkin, Changeling, Dhampir, Dromaar, Geniekin, Nephilim
+- Uncommon: Amurrun, Azarketi, Fetchling, Hobgoblin, Iruxi, Kholo, Kitsune, Kobold, Nagaji, Tengu, Tripkee, Vanara, Ysoki
+- Rare: Anadi, Android, Automaton, Conrasu, Fleshwarp, Ghoran, Goloma, Kashrishi, Poppet, Shisk, Shoony, Skeleton, Sprite, Strix, Vishkanya
+- Versatile: Aiuvarin, Beastkin, Changeling, Dhampir, Dromaar, Geniekin, Nephilim
 ## Buildings
 Filter by building type (Social, Commercial, Religious, etc.)
 Generate random building with full sensory details
@@ -100,13 +100,13 @@ Manage settlement attributes (Population, Stability, Resources, Reputation, Mora
 Strain level should apply bonus/penalty to PC social interaction while in the settlement  
 Generate events to modify settlement attributes
 ### Events Categories: 
--Events : events that automatically modify attributes
--Opportunity : event with a cost and skill check over time to gain attributes
--Dilemma : event with a moral choice that affect attributes (usually the morally acceptable choice give less attributes benefit)
--Rumor : simple rumor generator with type, location, contact, believability and twist. 
+- Events : events that automatically modify attributes
+- Opportunity : event with a cost and skill check over time to gain attributes
+- Dilemma : event with a moral choice that affect attributes (usually the morally acceptable choice give less attributes benefit)
+- Rumor : simple rumor generator with type, location, contact, believability and twist. 
 ## Subsystem
 Generate obstacle with difficulty, steps and traits for non combat encounter
 ### Subsystem Categories:
--Chases : Run from an enemy before they catch on and vice-versa 
--Infiltration : Run through obstacle without raising the alarm 
--Research : Obstacle to find information  
+- Chases : Run from an enemy before they catch on and vice-versa 
+- Infiltration : Run through obstacle without raising the alarm 
+- Research : Obstacle to find information  
