@@ -1,0 +1,8 @@
+{
+  "css.customData": [".vscode/tailwind.json"],
+  "css.lint.unknownAtRules": "ignore",
+  "sonarlint.connectedMode.project": {
+    "connectionId": "lowkeyframe",
+    "projectKey": "lowkeyframe_GM-helper"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-flash": "github:RGBboy/express-flash",
+    "svelte-icons": "^2.1.0"
+  }
+}

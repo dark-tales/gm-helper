@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+    --color-grey: #131516;
+    --color-light-grey: #232729;
+    --color-yellow: #996f00;
+    --color-white: #efd293;
+    --color-pf-yellow: #a89069;
+    --color-pf-green: #012708;
+    --color-pf-yellow-light: #efd293; 
+    --color-pf-light-green: #3b7b59;
+    --color-pf-red: #5e0000;
+}
+.btn {
+    @apply font-bold m-4 border-2 text-grey border-pf-yellow-light bg-pf-yellow-light p-4 rounded ease-out duration-200 hover:bg-black hover:text-pf-yellow-light hover:border-pf-yellow-light
+}
+
+.btn-nav {
+    @apply font-bold m-4 border-2 text-grey border-pf-yellow-light bg-pf-yellow-light p-4 rounded ease-out duration-200
+}
+
+.btn-light {
+    @apply font-bold m-4 border-2 text-grey border-pf-yellow-light bg-pf-yellow-light p-4 rounded ease-out duration-200 hover:bg-black hover:text-pf-yellow-light hover:border-pf-yellow-light
+}
+
+.btn-dark {
+    @apply font-bold m-4 border-2 text-pf-yellow-light border-pf-yellow-light bg-grey p-4 rounded ease-out duration-200 hover:bg-pf-yellow-light hover:text-grey hover:border-grey
+}
+
+
+
+.btn-no-margin-top {
+    @apply font-bold ml-4 mr-4 mb-4 border-2 text-grey border-pf-yellow-light bg-pf-yellow-light p-4 ease-out duration-200 rounded hover:bg-black hover:text-pf-yellow-light hover:border-pf-yellow-light
+}
+
+.btn-red {
+    @apply font-bold m-4 border-2 text-pf-yellow-light border-pf-red bg-pf-red p-4 rounded ease-out duration-200 hover:bg-black hover:text-pf-red hover:border-pf-red
+}
+
+select option {
+    background-color: #2b3032;
+}
+
